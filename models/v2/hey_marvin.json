@@ -2,7 +2,6 @@
   "type": "micro",
   "wake_word": "hey marvin",
   "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
   "model": "hey_marvin.tflite",
   "trained_languages": ["en"],
   "version": 2,
